@@ -1,3 +1,3 @@
 # linuxtv
 
-this is my insible repo for linuxtv video tutorial
+this is my ansible repo for linuxtv video tutorial
